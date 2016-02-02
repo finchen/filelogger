@@ -4,7 +4,7 @@
   "main": "dist/filelogger",
   "version": "1.3.0",
   "repository": {
-    "url": "git://github.com/pbakondy/filelogger.git"
+    "url": "git://github.com/finchen/filelogger.git"
   },
   "devDependencies": {
     "gulp": "^3.7.0",
